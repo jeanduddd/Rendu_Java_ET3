@@ -1,0 +1,2 @@
+il y a un problème au niveau du switch case dans le main... lors de la vérification du type du média lorsque c'est du type Presse (généraliste  politique  économique),
+il manque un espace entre politique et les 2 d'à côté (généraliste et économique)
